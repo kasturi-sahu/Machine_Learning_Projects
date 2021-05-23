@@ -1,4 +1,4 @@
-# ML3 Project - Machine Learning on Avocado Data Set
+# Machine Learning on Avocado Data Set
 ## Summarization of Learning
 ### 9 steps of EDA
 - Define Problem
