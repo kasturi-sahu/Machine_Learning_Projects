@@ -11,7 +11,7 @@
 - Post-profile
 - Ask right Questions
 - Conclusion or Summarization
-- Actionable Insights (low hanging fruits)
+- Actionable Insights
 
 ### 7 Stages of ML
 - Data Collection
@@ -94,7 +94,7 @@ We will consider the Interest Rate as output variable and predict the best model
 - As per the evaluation with (80:20) training and testing data Gradient Boosting Regressor model is the best model
 - Gradient Boosting Regressor is the highest which is 0.87
 
-**Please find the notebook [[here](http://https://github.com/kasturi-sahu/Machine_Learning_Projects/blob/main/Bank%20Dataset/Bank%20Dataset.ipynb "here")]**
+**Please find the notebook [[here](https://github.com/kasturi-sahu/Machine_Learning_Projects/blob/main/Bank%20Dataset/Bank%20Dataset.ipynb "here")]**
 
 
 
