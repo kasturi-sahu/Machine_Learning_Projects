@@ -9,7 +9,7 @@
 - Post-profile
 - Ask right Questions
 - Conclusion or Summarization
-- Actionable Insights (low hanging fruits)
+- Actionable Insights
 
 ### 7 Stages of ML
 - Data Collection
@@ -116,7 +116,7 @@ We have removed Date, Month and Day column
 
 
 
-**Please find the notebook [here](http://https://github.com/kasturi-sahu/Machine_Learning_Projects/blob/main/Avocado/Machine%20Learning%20on%20Avocado%20Data%20Set.ipynb "here")**
+**Please find the notebook [here](https://github.com/kasturi-sahu/Machine_Learning_Projects/blob/main/Avocado/Machine%20Learning%20on%20Avocado%20Data%20Set.ipynb "here")**
 
 
 
