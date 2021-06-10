@@ -13,7 +13,7 @@
 - Post-profile
 - Ask right Questions
 - Conclusion or Summarization
-- Actionable Insights (low hanging fruits)
+- Actionable Insights
 
 ### 7 Stages of ML
 - Data Collection
